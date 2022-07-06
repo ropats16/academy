@@ -93,7 +93,7 @@ export const ContentBanner: React.FC<LessonProps> = (props: LessonProps) => {
   );
 };
 
-// const lessonIcons = {
-//   solidity: '/assets/solidity.png',
-//   remix: '/assets/remix.png',
-// }
+const lessonIcons = {
+  solidity: "/assets/solidity.png",
+  remix: "/assets/remix.png",
+};
